@@ -3,10 +3,10 @@ package com.muhammad.tikbok.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Primary40 = Color(0xFFC16357)
-val Primary60 = Color(0xFFE08880)
-val Primary90 = Color(0xFFFFDAD6)
-val Primary100 = Color(0xFFFFFFFF)
+val Primary40 = Color(0xFFFFC107)
+val Primary60 = Color(0xFFFFD54F)
+val Primary90 = Color(0xFFFFF3CD)
+val Primary100 = Color.Black
 
 val Secondary50 = Color(0xFF6B7796)
 val Secondary70 = Color(0xFF9FABCD)
